@@ -24,7 +24,7 @@ question= [
     },
     {
         "Which is the capital of Nigeria?\n(a) Abuja\n(b) Lagos\n(c) Kano\n(d) Ibadan\n\n",
-        "answer":"a"
+        "answer"
         
     },
     {
